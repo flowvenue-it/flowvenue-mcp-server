@@ -2,6 +2,8 @@
 
 > Turn AI agents into conversational business operators.
 
+[![flowvenue-mcp-server MCP server](https://glama.ai/mcp/servers/flowvenue-it/flowvenue-mcp-server/badges/card.svg)](https://glama.ai/mcp/servers/flowvenue-it/flowvenue-mcp-server)
+
 Flowvenue MCP Server allows AI assistants like Claude to interact with real business operations through conversational workflows, enterprise processes, KPI engines, and operational runtime orchestration.
 
 Built on the Model Context Protocol (MCP).
