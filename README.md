@@ -260,7 +260,7 @@ Flowvenue enables organizations to become conversationally programmable.
 
 # Documentation
 
-Additional documentation coming soon:
+Additional documentation inside docs:
 
 - Authentication
 - Tool reference
