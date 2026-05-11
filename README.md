@@ -6,6 +6,8 @@ Flowvenue MCP Server allows AI assistants like Claude to interact with real busi
 
 Built on the Model Context Protocol (MCP).
 
+![Flowvenue MCP Demo](./screenshots/demo.gif)
+
 ---
 
 # Important
