@@ -38,6 +38,7 @@ Flowvenue is a conversational operational runtime that allows organizations to:
 - navigate enterprise contexts dynamically
 
 Flowvenue transforms enterprise operations into AI-callable capabilities.
+MCP is one access layer to Flowvenue, not the whole product. Flowvenue’s core value is the deterministic process runtime: states, permissions, business rules, data model, actions, audit trail and integrations.
 
 ---
 
